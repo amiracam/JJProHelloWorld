@@ -1,2 +1,2 @@
-# JJProHelloWorld
+# JProHelloWorld
 A simple JPro app
